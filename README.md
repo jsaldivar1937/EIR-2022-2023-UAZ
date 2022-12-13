@@ -4,8 +4,8 @@ Repositorio Curso de Introduccion a la conducción autónoma escala 1:10
 
 # Temario del Curso
  - [Introducción a conducción autónoma.](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/tree/main/Introduccion)
- - [Plataforma AutomodelCar.](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/tree/main/)
- - [Procesamiento de imágenes con openCV.](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/tree/main/)
+ - [Plataforma AutomodelCar.](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/tree/main/Plataforma%20AutomodelCar)
+ - [Procesamiento de imágenes con openCV.](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/tree/main/Procesamiento%20de%20Imagenes)
  - [Heurísticas.](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/tree/main/Heuristicas)
  - [Taller.](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/tree/main/Taller)
 

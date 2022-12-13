@@ -11,7 +11,8 @@
 
 La version de Python utilizada es la estandar que tiene por defecto (python 2.7) Ubuntu 18.04 
 
-Los requerimentos minimos de la laptop son 
+# Los requerimentos minimos de la laptop son:
+
  - Sistema operativo de preferencia Ubuntu 18.04 o Windows 10/11.
  - 8 Gb de RAM minimo.
  - Procesador con mas de 4 nucleos fisicos.

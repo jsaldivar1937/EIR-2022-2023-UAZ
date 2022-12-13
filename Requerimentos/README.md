@@ -9,5 +9,7 @@
  - Tener instalado Numpy, Opencv y matplotlib.
    - >Se instalan con los siguentes comandos "pip install opencv-python", "pip install numpy" y "pip install matplotlib"
 
+La version de Python utilizada es la estandar que tiene por defecto (python 2.7) Ubuntu 18.04 
+
 
 

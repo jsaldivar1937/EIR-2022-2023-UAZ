@@ -1,4 +1,4 @@
-# EIR-2022-2023-UAZ
+# Procesamiento de Imagenes
 El tercer tema trata sobre el procesamiento de imágenes con OpenCV. OpenCV es una biblioteca de código abierto que proporciona una amplia gama de herramientas y funcionalidades para el procesamiento de imágenes y videos digitales.
 
 La adquisición de imágenes digitales con OpenCV se refiere a la capacidad de la biblioteca para capturar imágenes a través de dispositivos como cámaras web o cámaras de vigilancia. Esto permite a los desarrolladores obtener imágenes digitales en tiempo real y procesarlas de diferentes maneras.

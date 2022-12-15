@@ -8,7 +8,6 @@ Proporcionar a los participantes las habilidades necesarias para desarrollar alg
  - [Introducción a conducción autónoma.](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/tree/main/Introduccion)
  - [Plataforma AutomodelCar.](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/tree/main/Plataforma%20AutomodelCar)
  - [Procesamiento de imágenes con openCV.](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/tree/main/Procesamiento%20de%20Imagenes)
- - [Heurísticas.](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/tree/main/Heuristicas)
  - [Taller.](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/tree/main/Taller)
  
 Los vehiculos utilizados son los vehiculos donados por la Universidad Libre de Berlin [AutoModelCar](https://github.com/AutoModelCar) y otros desarrollados por el [Centro de Investigacion e Innovacion Automotriz de Mexico](https://www.facebook.com/CIIAM21)

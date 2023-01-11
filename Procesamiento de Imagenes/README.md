@@ -16,7 +16,8 @@ Loas imagenes de muestra se pueden econtrar en el apartado de Datos utilizados.
  
 
 # Datos utilizados
-Las imagenes utilizadas se encuentrar en el siguente [enlace](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/tree/main/ImagenesEIR) 
+Las imagenes utilizadas se encuentrar en el siguente [enlace](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/tree/main/ImagenesEIR)
+Imagenes utilizadas para el preprocesamiento se encuentran [Aqui](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/tree/main/Dia%202/Imagenes)
 
 # Requerimentos
 En caso que no quieras utilizar la maquina virtual que se ofrece podras instalar los requerimentos necesarios en el siguente [enlace](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/blob/main/Requerimentos/README.md)

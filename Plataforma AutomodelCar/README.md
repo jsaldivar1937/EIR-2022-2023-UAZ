@@ -9,9 +9,9 @@ Este tema se dividira en 2 subtemas los cuales son:
 Los recursos necesarios sobre como instalar ROS y la configuracion estaran en la parte de requerimentos.
 
 Para la parte de ROS 101 veremos los siguentes temas:
- - Configurar tu entorno de trabajo [aqui].
- - Creacion de Paquetes en ROS [aqui].
- - Creacion de nodos Subscriptores/Publicadores [aqui].
+ - Configurar tu entorno de trabajo [aqui](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/blob/main/Introduccion/Ros%20For%20Beginners.ipynb).
+ - Creacion de Paquetes en ROS [aqui](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/blob/main/Introduccion/Ros%20For%20Beginners.ipynb).
+ - Creacion de nodos Subscriptores/Publicadores [aqui](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/blob/main/Introduccion/publicador.py).
 
 # Requerimentos
 En caso que no quieras utilizar la maquina virtual que se ofrece podras instalar los requerimentos necesarios en el siguente [enlace](https://github.com/jsaldivar1937/EIR-2022-2023-UAZ/blob/main/Requerimentos/README.md)
